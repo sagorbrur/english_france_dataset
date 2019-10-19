@@ -36,4 +36,3 @@ A curated link list for NLP datasets.
 * FastText
   * [English](https://fasttext.cc/docs/en/english-vectors.html)
   * [Multi-Lingual 157 Language](https://fasttext.cc/docs/en/crawl-vectors.html)
-  * word2vec
